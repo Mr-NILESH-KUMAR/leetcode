@@ -72,3 +72,15 @@ LeetHub automatically maintains the following clean structure when syncing solut
 │   ├── 📄 README.md
 │   └── 📄 Problem-Name-2.cpp
 └── 📄 README.md              <- Main hub profile
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics End-->
