@@ -78,9 +78,18 @@ LeetHub automatically maintains the following clean structure when syncing solut
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
