@@ -25,9 +25,9 @@ This repository is my personal log of LeetCode problem-solving. Every accepted s
 ## 📊 Live Stats
 
 <!--START_SECTION:leetcode-stats-->
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Total Solved | 🏆 Ranking | 📈 Acceptance Rate |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| — | — | — | — | — | — |
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Total Solved | 🏆 Ranking |
+|:---:|:---:|:---:|:---:|:---:|
+| — | — | — | — | — |
 
 <sub>Not yet run — this table fills in automatically after the GitHub Action's first run.</sub>
 <!--END_SECTION:leetcode-stats-->
@@ -39,18 +39,22 @@ This table **refreshes daily on its own** via a GitHub Action — no manual edit
 ## 🗂️ Solutions by Topic
 
 <details open>
-<summary><b>⚡ Dynamic Programming / Kadane's Algorithm</b></summary>
+<summary><b>⚡ Dynamic Programming / Greedy</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |---|---------|:---:|:---:|
 | 53 | Maximum Subarray | 🟡 Medium | [View Solution](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/main/0053-maximum-subarray) |
+| 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [View Solution](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock) |
+| 455 | Assign Cookies | 🟢 Easy | [View Solution](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/main/0455-assign-cookies) |
 
 </details>
 
-<details>
-<summary><b>🔗 Arrays & Hashing</b></summary>
+<details open>
+<summary><b>🔗 Arrays & Matrix</b></summary>
 
-_No problems synced yet in this category._
+| # | Problem | Difficulty | Solution |
+|---|---------|:---:|:---:|
+| 73 | Set Matrix Zeroes | 🟡 Medium | [View Solution](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/main/0073-set-matrix-zeroes) |
 
 </details>
 
@@ -75,7 +79,7 @@ _No problems synced yet in this category._
 
 </details>
 
-> ✏️ **Note:** Your LeetCode profile shows solving activity across DP, Arrays, Strings, Two Pointers, Trees, Math, and Backtracking — but only `0053-maximum-subarray` has synced to GitHub via LeetHub so far. Once LeetHub pushes more folders, add a row here linking to the new folder (the folder name LeetHub generates becomes the link path directly, e.g. `0001-two-sum`).
+> ✏️ **Note:** 4 problems are synced to GitHub via LeetHub so far. As LeetHub pushes new folders, add a row here linking to each (the folder name LeetHub generates becomes the link path directly, e.g. `0001-two-sum`).
 
 <br/>
 
