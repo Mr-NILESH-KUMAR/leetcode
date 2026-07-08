@@ -4,12 +4,11 @@
 
 ### Consistent grinding, one problem at a time — auto-synced with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Mr-NILESH-KUMAR/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ni_lesh_/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Mr-NILESH-KUMAR/leetcode?style=for-the-badge&color=blue)](https://github.com/Mr-NILESH-KUMAR/leetcode/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Mr-NILESH-KUMAR/leetcode?style=for-the-badge&color=success)](https://github.com/Mr-NILESH-KUMAR/leetcode)
-[![Made with LeetHub](https://img.shields.io/badge/Synced%20with-LeetHub%20v2-6C3EF4?style=for-the-badge)](chrome-extension://mhanfgfagplhgemhjfeolkkdidbakocm/welcome.html)
 
-<img src="https://leetcard.jacoblin.cool/Mr-NILESH-KUMAR?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" width="500"/>
+<img src="https://leetcard.jacoblin.cool/ni_lesh_?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats Card" width="500"/>
 
 </div>
 
@@ -17,21 +16,23 @@
 
 ## 📌 About this Repo
 
-This repository is my personal log of LeetCode problem-solving. Every accepted solution here was **pushed automatically** the moment it turned green on LeetCode — thanks to the **LeetHub v2** Chrome extension. Each folder holds the original problem notes plus my exact accepted submission, no manual copy-pasting involved.
+This repository is my personal log of LeetCode problem-solving. Every accepted solution here is **pushed automatically** the moment it turns green on LeetCode, thanks to the **LeetHub v2** Chrome extension. Each folder holds the original problem notes plus my exact accepted submission.
 
 > 💡 If it's in this repo, it passed every test case on LeetCode.
 
 <br/>
 
-## 📊 Progress Snapshot
+## 📊 Live Stats
 
-<div align="center">
+<!--START_SECTION:leetcode-stats-->
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Total Solved | 🏆 Ranking | 📈 Acceptance Rate |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| — | — | — | — | — | — |
 
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Total Solved | 🛠️ Primary Language |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Easy](https://img.shields.io/badge/dynamic/json?color=5cb85c&label=&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/Mr-NILESH-KUMAR&style=flat-square) | ![Medium](https://img.shields.io/badge/dynamic/json?color=f0ad4e&label=&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/Mr-NILESH-KUMAR&style=flat-square) | ![Hard](https://img.shields.io/badge/dynamic/json?color=d9534f&label=&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/Mr-NILESH-KUMAR&style=flat-square) | ![Total](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Mr-NILESH-KUMAR&style=flat-square) | ![C++](https://img.shields.io/badge/C++-100%25-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+<sub>Not yet run — this table fills in automatically after the GitHub Action's first run.</sub>
+<!--END_SECTION:leetcode-stats-->
 
-</div>
+This table **refreshes daily on its own** via a GitHub Action — no manual editing needed. See [how it works](#-how-this-repo-stays-updated) below.
 
 <br/>
 
@@ -40,34 +41,41 @@ This repository is my personal log of LeetCode problem-solving. Every accepted s
 <details open>
 <summary><b>⚡ Dynamic Programming / Kadane's Algorithm</b></summary>
 
-| # | Problem | Difficulty | Solution | Notes |
-|---|---------|:---:|:---:|-------|
-| 53 | Maximum Subarray | 🟡 Medium | [Link](./0053-maximum-subarray) | Classic Kadane's algorithm, O(n) |
+| # | Problem | Difficulty | Solution |
+|---|---------|:---:|:---:|
+| 53 | Maximum Subarray | 🟡 Medium | [View Solution](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/main/0053-maximum-subarray) |
 
 </details>
 
 <details>
 <summary><b>🔗 Arrays & Hashing</b></summary>
 
-_More solutions coming soon — this section will grow as new problems get solved and auto-pushed by LeetHub._
+_No problems synced yet in this category._
 
 </details>
 
 <details>
-<summary><b>🌲 Trees & Graphs</b></summary>
+<summary><b>🌲 Trees & Binary Trees</b></summary>
 
-_Coming soon._
+_No problems synced yet in this category._
 
 </details>
 
 <details>
-<summary><b>🪜 Two Pointers / Sliding Window</b></summary>
+<summary><b>🪜 Two Pointers / Strings</b></summary>
 
-_Coming soon._
+_No problems synced yet in this category._
 
 </details>
 
-> ✏️ **Note:** As LeetHub auto-creates new folders, add a row here pointing to them — the folder name it generates (e.g. `0053-maximum-subarray`) becomes the link target directly.
+<details>
+<summary><b>🔁 Backtracking / Divide & Conquer</b></summary>
+
+_No problems synced yet in this category._
+
+</details>
+
+> ✏️ **Note:** Your LeetCode profile shows solving activity across DP, Arrays, Strings, Two Pointers, Trees, Math, and Backtracking — but only `0053-maximum-subarray` has synced to GitHub via LeetHub so far. Once LeetHub pushes more folders, add a row here linking to the new folder (the folder name LeetHub generates becomes the link path directly, e.g. `0001-two-sum`).
 
 <br/>
 
@@ -77,8 +85,8 @@ _Coming soon._
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Chrome Extension](https://img.shields.io/badge/LeetHub-Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -88,10 +96,14 @@ _Coming soon._
 
 ```
 📦 leetcode
+ ┣ 📂 .github/workflows
+ ┃ ┗ 📜 update-readme.yml      → daily stats-refresh automation
+ ┣ 📂 scripts
+ ┃ ┗ 📜 update_stats.py        → fetches LeetCode stats, edits README
  ┣ 📂 0053-maximum-subarray
- ┃ ┣ 📜 README.md         → problem statement (auto-added by LeetHub)
- ┃ ┗ 📜 maximum-subarray.cpp   → accepted solution
- ┗ 📜 README.md            → you are here
+ ┃ ┣ 📜 README.md               → problem statement (auto-added by LeetHub)
+ ┃ ┗ 📜 maximum-subarray.cpp    → accepted solution
+ ┗ 📜 README.md                 → you are here
 ```
 
 <br/>
@@ -101,11 +113,24 @@ _Coming soon._
 ```mermaid
 flowchart LR
     A[Solve on LeetCode] --> B{Accepted?}
-    B -- Yes --> C[LeetHub v2 detects submission]
-    C --> D[Auto-creates/updates folder]
-    D --> E[Pushes to GitHub]
+    B -- Yes --> C[LeetHub v2 pushes solution folder]
     B -- No --> A
+    D[GitHub Action - runs daily] --> E[Fetch stats from LeetCode API]
+    E --> F[Rewrite stats table in README]
+    F --> G[Auto-commit if changed]
 ```
+
+Two independent automations work together:
+1. **LeetHub v2** pushes a new folder every time you solve a problem.
+2. **GitHub Actions** (`update-readme.yml`) runs once a day, calls the LeetCode stats API for `ni_lesh_`, and rewrites the *Live Stats* table above — no manual edits required.
+
+<br/>
+
+## ⚙️ Setup Notes (for this automation)
+
+- The workflow file lives at `.github/workflows/update-readme.yml` and needs no secrets — it only reads a public stats endpoint.
+- It runs daily at 00:00 UTC, on every push to `main`, and can also be triggered manually from the **Actions** tab (`Run workflow`).
+- If you ever rename your LeetCode handle, update `LEETCODE_USERNAME` at the top of `scripts/update_stats.py`.
 
 <br/>
 
@@ -122,7 +147,7 @@ flowchart LR
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Mr-NILESH-KUMAR/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ni_lesh_/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-NILESH-KUMAR)
 
 ⭐ **If this inspires your own DSA journey, consider starring the repo!** ⭐
