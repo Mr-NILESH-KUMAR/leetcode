@@ -80,6 +80,7 @@ LeetHub automatically maintains the following clean structure when syncing solut
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0455-assign-cookies](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +93,16 @@ LeetHub automatically maintains the following clean structure when syncing solut
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
