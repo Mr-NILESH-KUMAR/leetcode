@@ -1,108 +1,130 @@
-# 🎯 LeetCode Solutions Journey
-
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language" />
-  <img src="https://img.shields.io/badge/Synced_With-LeetHub_v2-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="LeetHub" />
-  <img src="https://img.shields.io/github/stars/Mr-NILESH-KUMAR/leetcode?style=for-the-badge&color=7289DA" alt="Stars" />
+
+# 🧠 LeetCode Solutions Vault
+
+### Consistent grinding, one problem at a time — auto-synced with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Mr-NILESH-KUMAR/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Mr-NILESH-KUMAR/leetcode?style=for-the-badge&color=blue)](https://github.com/Mr-NILESH-KUMAR/leetcode/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Mr-NILESH-KUMAR/leetcode?style=for-the-badge&color=success)](https://github.com/Mr-NILESH-KUMAR/leetcode)
+[![Made with LeetHub](https://img.shields.io/badge/Synced%20with-LeetHub%20v2-6C3EF4?style=for-the-badge)](chrome-extension://mhanfgfagplhgemhjfeolkkdidbakocm/welcome.html)
+
+<img src="https://leetcard.jacoblin.cool/Mr-NILESH-KUMAR?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" width="500"/>
+
 </div>
 
-<br />
+<br/>
 
-Welcome to my personal arena of algorithmic problem-solving! This repository serves as a live archive of my solutions to LeetCode problems, automatically synchronized and cataloged in real-time using the **LeetHub v2** Chrome extension. 
+## 📌 About this Repo
 
----
+This repository is my personal log of LeetCode problem-solving. Every accepted solution here was **pushed automatically** the moment it turned green on LeetCode — thanks to the **LeetHub v2** Chrome extension. Each folder holds the original problem notes plus my exact accepted submission, no manual copy-pasting involved.
 
-## ⚡ Repository Highlights
+> 💡 If it's in this repo, it passed every test case on LeetCode.
 
-* **Automated Sync:** Handled entirely by LeetHub v2—every successful submission instantly formats into markdown and code files here.
-* **Structured Layout:** Organized cleanly by difficulty levels (**Easy**, **Medium**, **Hard**), containing both the problem statement and optimized code.
-* **Core Focus:** Primarily optimized for time and space efficiency using **C++**.
+<br/>
 
----
+## 📊 Progress Snapshot
 
-## 🛠️ Tech Stack & Tools
+<div align="center">
 
-* **Language:** C++ (Standard Template Library)
-* **Automation:** [LeetHub v2 Extension](chrome-extension://mhanfgfagplhgemhjfeolkkdidbakocm/welcome.html)
-* **Environment:** LeetCode Online Judge
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Total Solved | 🛠️ Primary Language |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Easy](https://img.shields.io/badge/dynamic/json?color=5cb85c&label=&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/Mr-NILESH-KUMAR&style=flat-square) | ![Medium](https://img.shields.io/badge/dynamic/json?color=f0ad4e&label=&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/Mr-NILESH-KUMAR&style=flat-square) | ![Hard](https://img.shields.io/badge/dynamic/json?color=d9534f&label=&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/Mr-NILESH-KUMAR&style=flat-square) | ![Total](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Mr-NILESH-KUMAR&style=flat-square) | ![C++](https://img.shields.io/badge/C++-100%25-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 
----
+</div>
 
-## 🗺️ Interactive Topic Roadmap
+<br/>
 
-Click on any dropdown section below to explore the categorization of algorithmic problems I regularly tackle:
+## 🗂️ Solutions by Topic
 
-<details>
-<summary><b>🔹 Data Structures</b></summary>
+<details open>
+<summary><b>⚡ Dynamic Programming / Kadane's Algorithm</b></summary>
 
-- [ ] Arrays & Hashing
-- [ ] Linked Lists
-- [ ] Stacks & Queues
-- [ ] Trees & Binary Search Trees (BST)
-- [ ] Graphs (BFS, DFS, Shortest Path)
-- [ ] Heaps / Priority Queues
-- [ ] Tries & Advanced Trees
+| # | Problem | Difficulty | Solution | Notes |
+|---|---------|:---:|:---:|-------|
+| 53 | Maximum Subarray | 🟡 Medium | [Link](./0053-maximum-subarray) | Classic Kadane's algorithm, O(n) |
+
 </details>
 
 <details>
-<summary><b>🔹 Algorithms & Techniques</b></summary>
+<summary><b>🔗 Arrays & Hashing</b></summary>
 
-- [ ] Two Pointers & Sliding Window
-- [ ] Binary Search
-- [ ] Recursion & Backtracking
-- [ ] Greedy Algorithms
-- [ ] Dynamic Programming (1D & 2D)
-- [ ] Bit Manipulation
-- [ ] Math & Numerical Methods
+_More solutions coming soon — this section will grow as new problems get solved and auto-pushed by LeetHub._
+
 </details>
 
----
+<details>
+<summary><b>🌲 Trees & Graphs</b></summary>
 
-## 📁 Repository Structure
+_Coming soon._
 
-LeetHub automatically maintains the following clean structure when syncing solutions:
+</details>
 
-```text
-📂 .
-├── 📂 Problem-Name-1/
-│   ├── 📄 README.md          <- Problem description, constraints, and notes
-│   └── 📄 Problem-Name-1.cpp <- Optimized C++ Solution Source Code
-├── 📂 Problem-Name-2/
-│   ├── 📄 README.md
-│   └── 📄 Problem-Name-2.cpp
-└── 📄 README.md              <- Main hub profile
+<details>
+<summary><b>🪜 Two Pointers / Sliding Window</b></summary>
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0455-assign-cookies](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0455-assign-cookies) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-## Hash Table
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
-## Matrix
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
-## Two Pointers
-|  |
-| ------- |
-| [0455-assign-cookies](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0455-assign-cookies) |
-## Greedy
-|  |
-| ------- |
-| [0455-assign-cookies](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0455-assign-cookies) |
-## Sorting
-|  |
-| ------- |
-| [0455-assign-cookies](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0455-assign-cookies) |
-<!---LeetCode Topics End-->
+_Coming soon._
+
+</details>
+
+> ✏️ **Note:** As LeetHub auto-creates new folders, add a row here pointing to them — the folder name it generates (e.g. `0053-maximum-subarray`) becomes the link target directly.
+
+<br/>
+
+## 🛠️ Tech & Tools
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Chrome Extension](https://img.shields.io/badge/LeetHub-Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📁 Repo Structure
+
+```
+📦 leetcode
+ ┣ 📂 0053-maximum-subarray
+ ┃ ┣ 📜 README.md         → problem statement (auto-added by LeetHub)
+ ┃ ┗ 📜 maximum-subarray.cpp   → accepted solution
+ ┗ 📜 README.md            → you are here
+```
+
+<br/>
+
+## 🚀 How This Repo Stays Updated
+
+```mermaid
+flowchart LR
+    A[Solve on LeetCode] --> B{Accepted?}
+    B -- Yes --> C[LeetHub v2 detects submission]
+    C --> D[Auto-creates/updates folder]
+    D --> E[Pushes to GitHub]
+    B -- No --> A
+```
+
+<br/>
+
+## 🌟 Why This Repo Exists
+
+- 📈 Track consistency over time, not just problem count
+- 🧩 Build a searchable personal DSA reference in C++
+- 🔁 Revisit past solutions before interviews
+- 🤝 Share approach & notes for anyone learning the same patterns
+
+<br/>
+
+## 📬 Connect
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Mr-NILESH-KUMAR/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-NILESH-KUMAR)
+
+⭐ **If this inspires your own DSA journey, consider starring the repo!** ⭐
+
+</div>
