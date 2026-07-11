@@ -163,6 +163,7 @@ Two independent automations work together:
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0118-pascals-triangle) |
 | [0860-lemonade-change](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -181,4 +182,8 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0860-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
