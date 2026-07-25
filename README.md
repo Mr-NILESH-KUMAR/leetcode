@@ -165,6 +165,7 @@ Two independent automations work together:
 | ------- |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0860-lemonade-change](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -191,6 +192,7 @@ Two independent automations work together:
 | ------- |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
