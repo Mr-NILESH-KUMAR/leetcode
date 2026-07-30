@@ -167,6 +167,7 @@ Two independent automations work together:
 | [0118-pascals-triangle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
 | [0860-lemonade-change](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -198,6 +199,7 @@ Two independent automations work together:
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -210,6 +212,7 @@ Two independent automations work together:
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -219,4 +222,12 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
