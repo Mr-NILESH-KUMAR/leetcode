@@ -2,20 +2,12 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
-        int mid = n / 2;
-
-        unordered_map<int, int> hash;
+        int nb,cnt=0;        
 
         for (int i = 0; i < n; i++) {
-            hash[nums[i]]++;
+            if(cnt==0)nb=nums[i];
+            nb==nums[i] ? cnt++ : cnt--;
         }
-
-        for (auto it : hash) {
-            if (it.second > mid) {
-                return it.first;
-            }
-        }
-
-        return -1;
+        return (cnt > 0) ? nb : -1;
     }
 };
