@@ -173,6 +173,7 @@ Two independent automations work together:
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -180,6 +181,7 @@ Two independent automations work together:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
