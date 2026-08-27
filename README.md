@@ -163,6 +163,7 @@ Two independent automations work together:
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0118-pascals-triangle) |
@@ -183,6 +184,7 @@ Two independent automations work together:
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -254,6 +256,7 @@ Two independent automations work together:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0190-reverse-bits) |
 ## Counting
