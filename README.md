@@ -173,6 +173,7 @@ Two independent automations work together:
 | [0162-find-peak-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0274-h-index) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -241,6 +242,7 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -295,4 +297,8 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
