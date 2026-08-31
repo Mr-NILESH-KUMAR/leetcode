@@ -176,6 +176,7 @@ Two independent automations work together:
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0274-h-index) |
+| [0410-split-array-largest-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -190,6 +191,7 @@ Two independent automations work together:
 | [0004-median-of-two-sorted-arrays](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -205,6 +207,7 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
@@ -212,6 +215,7 @@ Two independent automations work together:
 | [0045-jump-game-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
@@ -222,6 +226,7 @@ Two independent automations work together:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
