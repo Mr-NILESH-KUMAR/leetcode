@@ -164,6 +164,7 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0088-merge-sorted-array) |
@@ -263,6 +264,7 @@ Two independent automations work together:
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
