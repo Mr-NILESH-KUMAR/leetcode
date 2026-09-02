@@ -172,6 +172,7 @@ Two independent automations work together:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
@@ -218,6 +219,7 @@ Two independent automations work together:
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
