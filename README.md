@@ -163,6 +163,7 @@ Two independent automations work together:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0045-jump-game-ii) |
@@ -235,6 +236,7 @@ Two independent automations work together:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0389-find-the-difference) |
