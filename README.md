@@ -244,6 +244,7 @@ Two independent automations work together:
 | [0001-two-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -270,6 +271,7 @@ Two independent automations work together:
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Two independent automations work together:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
@@ -324,4 +327,8 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0274-h-index) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
