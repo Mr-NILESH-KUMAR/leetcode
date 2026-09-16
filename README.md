@@ -260,6 +260,7 @@ Two independent automations work together:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0125-valid-palindrome) |
@@ -359,4 +360,12 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
