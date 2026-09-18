@@ -263,12 +263,14 @@ Two independent automations work together:
 | [0020-valid-parentheses](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -284,6 +286,7 @@ Two independent automations work together:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
@@ -371,4 +374,8 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
