@@ -320,11 +320,13 @@ Two independent automations work together:
 | [0100-same-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Two independent automations work together:
 | [0100-same-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -385,4 +388,8 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0067-add-binary) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
