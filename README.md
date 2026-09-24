@@ -171,6 +171,7 @@ Two independent automations work together:
 | [0027-remove-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0118-pascals-triangle) |
@@ -286,6 +287,7 @@ Two independent automations work together:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0202-happy-number) |
