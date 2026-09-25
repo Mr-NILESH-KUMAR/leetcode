@@ -286,6 +286,7 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0067-add-binary) |
