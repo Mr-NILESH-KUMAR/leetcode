@@ -172,6 +172,7 @@ Two independent automations work together:
 | [0045-jump-game-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0118-pascals-triangle) |
@@ -251,6 +252,7 @@ Two independent automations work together:
 | [0001-two-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0202-happy-number) |
@@ -395,4 +397,8 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
