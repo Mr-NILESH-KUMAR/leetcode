@@ -169,6 +169,7 @@ Two independent automations work together:
 | [0015-3sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0066-plus-one) |
@@ -201,6 +202,7 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0209-minimum-size-subarray-sum) |
