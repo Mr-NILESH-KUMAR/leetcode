@@ -241,6 +241,7 @@ Two independent automations work together:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0118-pascals-triangle) |
@@ -263,6 +264,7 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0020-valid-parentheses) |
@@ -299,6 +301,7 @@ Two independent automations work together:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -403,4 +406,8 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
