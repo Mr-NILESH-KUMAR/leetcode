@@ -171,6 +171,7 @@ Two independent automations work together:
 | [0027-remove-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -243,6 +244,7 @@ Two independent automations work together:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -318,6 +320,7 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0190-reverse-bits) |
 ## Counting
