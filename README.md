@@ -27,9 +27,9 @@ This repository is my personal log of LeetCode problem-solving. Every accepted s
 <!--START_SECTION:leetcode-stats-->
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Total Solved | 🏆 Ranking |
 |:---:|:---:|:---:|:---:|:---:|
-| 57 | 42 | 3 | 102 / 4069 | 1660343 |
+| 57 | 42 | 3 | 102 / 4073 | 1660343 |
 
-<sub>Last auto-updated: 2026-10-03 UTC · via GitHub Actions</sub>
+<sub>Last auto-updated: 2026-10-04 UTC · via GitHub Actions</sub>
 <!--END_SECTION:leetcode-stats-->
 
 This table **refreshes daily on its own** via a GitHub Action — no manual editing needed. See [how it works](#-how-this-repo-stays-updated) below.
