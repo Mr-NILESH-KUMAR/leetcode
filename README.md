@@ -331,6 +331,7 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -338,18 +339,21 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
