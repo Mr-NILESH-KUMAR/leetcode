@@ -192,6 +192,7 @@ Two independent automations work together:
 | [0228-summary-ranges](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0860-lemonade-change) |
@@ -319,6 +320,7 @@ Two independent automations work together:
 | [0141-linked-list-cycle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
