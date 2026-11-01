@@ -268,6 +268,7 @@ Two independent automations work together:
 | [0073-set-matrix-zeroes](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0389-find-the-difference) |
@@ -407,6 +408,7 @@ Two independent automations work together:
 | [0002-add-two-numbers](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -449,4 +451,12 @@ Two independent automations work together:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mr-NILESH-KUMAR/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
